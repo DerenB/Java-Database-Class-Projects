@@ -1,0 +1,6 @@
+Results in nano seconds:
+						Ascending					Descending					Random
+Merge					796447						807072						1496908
+Heap					8503399						35585798						3104884
+Quick					46556100					47038214					2428157
+
